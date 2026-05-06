@@ -33,3 +33,50 @@ a {
   text-decoration: none;
   color: #e5e7eb;
 }
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#hero-section {
+  background-color: #1f2937;
+  padding:  60px 0 100px 20px;
+}
+
+.title h1 {
+  color: #f9faf8;
+  width: 220px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.title {
+ width: 400px;
+}
+
+.title p {
+  color: #e5e7eb;
+  margin-top: 5px;
+}
+
+.placeholder-img {
+  background-color: gray;
+  height: 190px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #e5e7eb;
+}
+
+.title button {
+  background-color: #3882f6;
+  color: #fff;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
