@@ -119,3 +119,34 @@ a {
   border-radius: 20px;
   margin-bottom: 10px;
 }
+
+#link-two {
+  background-color: #ebe7eb;
+  padding: 80px;
+}
+
+.quote-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.quote {
+  width: 795px;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: 300;
+  text-wrap-style: pretty;
+  font-style: italic;
+  color: #1f2937;
+  margin: 0;
+}
+
+.thor {
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 80vh;
+}
