@@ -150,3 +150,44 @@ a {
   font-weight: 600;
   margin-left: 80vh;
 }
+
+#link-three {
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.call-to-action {
+  background-color: #3882f6;
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 80px;
+  border-radius: 8px; 
+}
+
+.left p {
+  margin: 0;
+}
+
+.call {
+  font-weight: 600;
+  color: white;
+}
+
+.sign {
+  color: #ebe7eb;
+  
+}
+
+.btn-sign {
+  background-color: #3882f6;
+  border: 2px solid white;
+  color: white;
+  padding: 5px 25px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+}
